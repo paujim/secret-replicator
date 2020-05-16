@@ -1,5 +1,5 @@
 
-# Welcome to your CDK Secret Replicator!
+# Welcome to CDK Secret Replicator!
 
 This project replicate secrets a set of regions.
 
