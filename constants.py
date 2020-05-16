@@ -1,0 +1,5 @@
+ACCOUNT_ID='YOUR_ACCOUNT_ID'
+ACCOUNT_REGION = 'us-west-2'
+
+TARGET_REGION_1 = 'us-east-1'
+TARGET_REGION_2 = 'us-east-2'
